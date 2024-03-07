@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MERN-STACK-PROJECT/static/css/main.1647f224.css",
+    "main.js": "/MERN-STACK-PROJECT/static/js/main.d2fdd6ff.js",
+    "static/js/787.b887a49e.chunk.js": "/MERN-STACK-PROJECT/static/js/787.b887a49e.chunk.js",
+    "static/media/nuts.png": "/MERN-STACK-PROJECT/static/media/nuts.18b4e09490f291d28239.png",
+    "static/media/fruits1.png": "/MERN-STACK-PROJECT/static/media/fruits1.2a39f7cc8464a7ea2e3b.png",
+    "static/media/chease.png": "/MERN-STACK-PROJECT/static/media/chease.71830db398ab9c49089f.png",
+    "static/media/chandra.png": "/MERN-STACK-PROJECT/static/media/chandra.7c1fb66f3150d7bfc7f4.png",
+    "index.html": "/MERN-STACK-PROJECT/index.html",
+    "main.1647f224.css.map": "/MERN-STACK-PROJECT/static/css/main.1647f224.css.map",
+    "main.d2fdd6ff.js.map": "/MERN-STACK-PROJECT/static/js/main.d2fdd6ff.js.map",
+    "787.b887a49e.chunk.js.map": "/MERN-STACK-PROJECT/static/js/787.b887a49e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1647f224.css",
+    "static/js/main.d2fdd6ff.js"
+  ]
+}
